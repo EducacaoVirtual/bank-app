@@ -92,4 +92,3 @@ Inicialmente o projeto foi desenvolvido por:
 - Website: https://alexncosta.com
 - YouTube: https://www.youtube.com/@educacaovirtualenglishofc
 - LinkedIn: https://www.linkedin.com/in/alexandre-nascimento-ev/?locale=en_US
->>>>>>> 46c15bd (Push README and images)
