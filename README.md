@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# bank-app
-=======
 # Bank Application
 #### Educação Virtual
 <div align="center">
